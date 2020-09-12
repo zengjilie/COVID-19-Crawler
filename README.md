@@ -1,5 +1,4 @@
-# COVID-19-Crawler
-2019新冠疫情数据爬虫|COVID-19 Crawler 
+
 # COVID-19 Data Crawler for personal project 'COVID Kit'
 
 This project is the data prepared for the development of my personal WeChat mini-program COVID Kit, which includes domestic and international epidemic data, CCTV videos with the keyword "COVID-19", popular scientific knowledge and common questions about COVID-19.
